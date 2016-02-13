@@ -1,11 +1,11 @@
-# Fundamentos de programaci髇
+# Fundamentos de programaci贸n
 ## Practicas
 
-En este git est醤 subidas las practicas realizadas en la asignatura de [Fundamentos de Programaci髇](http://www.fdi.ucm.es/Pub/ImpresoFichaDocente.aspx?Id=672).
-La asignatura b醩icamente es una introducci髇 a la programaci髇, impartida en C++. Es de primer a駉 de carrera.
+En este git est谩n subidas las practicas realizadas en la asignatura de [Fundamentos de Programaci贸n](http://www.fdi.ucm.es/Pub/ImpresoFichaDocente.aspx?Id=672).
+La asignatura b谩sicamente es una introducci贸n a la programaci贸n, impartida en C++. Es de primer a帽o de carrera.
 
 # Fundamentals of programming
 ## Practices
 
 In this git I've uploaded my solution to some practices in the coruse of [Fundamentals of programming](http://www.fdi.ucm.es/Pub/ImpresoFichaDocente.aspx?Id=672).
-This course is an introduction to programming, in C++. It's form the first year of de degree.
+This course is an introduction to programming, in C++. It's form the first year of the degree.
