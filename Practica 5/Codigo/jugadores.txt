@@ -1,0 +1,31 @@
+pablo
+54321
+UCM Corp.
+3000
+0
+-1
+duende95
+qmcuentas
+Universidad de los Duendes
+3000
+0
+-1
+luis
+rododendro
+Ishia Servicios
+3000
+0
+-1
+Zombi
+SerpentAndRainbow
+Zombi-U
+3000
+0
+-1
+spaceball
+12345
+Spaceballs
+3000
+0
+-1
+X

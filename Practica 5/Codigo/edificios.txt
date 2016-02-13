@@ -1,0 +1,73 @@
+10
+Facultad de Fisicas
+500
+-200
+300
+0
+20
+Facultad de Matematicas
+500
+-100
+300
+0
+30
+Facultad de Medicina
+750
+-800
+500
+0
+42
+Facultad de Informatica
+900
+-300
+1200
+0
+50
+Banco
+1000
+1200
+-400
+0
+81
+Supermercado
+500
+300
+0
+0
+90
+Reprografia
+100
+0
+50
+0
+91
+Reprografia
+100
+0
+50
+0
+92
+Reprografia
+100
+0
+50
+0
+100
+Gasolinera
+1000
+600
+-200
+0
+120
+Restaurante del vestido
+300
+2
+100
+0
+142
+Servicio de atencion a estudiantes
+1000
+-100
+400
+0
+-1
